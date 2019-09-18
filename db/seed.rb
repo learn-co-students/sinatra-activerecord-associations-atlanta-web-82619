@@ -1,0 +1,6 @@
+diego = Owner.create(name: "Diego")
+ina = Owner.create(name: "Ina")
+wallace = Cat.create(name: "Wallace", age: 7, breed: "Shorthair Domestic")
+gromek = Cat.create(name: "Gromit", age: 7, breed: "Shorthair Domestic")
+peanut = Cat.create(name: "Peanut", age: 3, breed: "Shorthair Domestic")
+nori = Cat.create(name: "Nori", age: 3, breed: "Shorthair Domestic")
